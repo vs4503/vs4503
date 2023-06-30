@@ -6,7 +6,7 @@
 </a> 
 <br>
 
-[![github]()](https://linkedin.com/in/vaibhav-santurkar)
+[![github](https://github.com/vs4503/vs4503/blob/main/Gmail_icon_(2020)-VerySmall.png)](https://linkedin.com/in/vaibhav-santurkar)
 
 ### Welcome to my Github Profile!  
 I am an enthusiastic and inquisitive programmer aiming to utilize my expertise in Data Analytics, Web Development, and Quantum Computing to obtain a full-time position as a Software Developer!  
