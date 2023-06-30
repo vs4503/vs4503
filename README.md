@@ -6,8 +6,7 @@
 </a> 
 <br>
 
-[![Email](https://github.com/vs4503/vs4503/assets/89811601/09299100-2353-4abe-b069-374fbe364207)][gmail]
-[gmail](mailto:vs4503@g.rit.edu)
+[![gmail(https://github.com/vs4503/vs4503/assets/89811601/09299100-2353-4abe-b069-374fbe364207)](mailto:vs4503@g.rit.edu)
 
 ### Welcome to my Github Profile!  
 I am an enthusiastic and inquisitive programmer aiming to utilize my expertise in Data Analytics, Web Development, and Quantum Computing to obtain a full-time position as a Software Developer!  
