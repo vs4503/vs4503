@@ -5,7 +5,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-[Gmail_icon_(2020)-VerySmall]:(mailto:vs4503@g.rit.edu)
+![Gmail_icon_(2020)-VerySmall](https://github.com/vs4503/vs4503/assets/89811601/09299100-2353-4abe-b069-374fbe364207):(mailto:vs4503@g.rit.edu)
 
 ### Welcome to my Github Profile!  
 I am an enthusiastic and inquisitive programmer aiming to utilize my expertise in Data Analytics, Web Development, and Quantum Computing to obtain a full-time position as a Software Developer!  
