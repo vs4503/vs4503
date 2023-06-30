@@ -5,7 +5,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-![Gmail_icon_(2020)-VerySmall](https://github.com/vs4503/vs4503/assets/89811601/6255f178-ef27-4ad1-b2b8-1bc4a5f1a3cc)[1]
+[![Gmail_icon_(2020)-VerySmall](https://github.com/vs4503/vs4503/assets/89811601/6255f178-ef27-4ad1-b2b8-1bc4a5f1a3cc)][1]
 [1]:(mailto:vs4503@g.rit.edu)
 
 ### Welcome to my Github Profile!  
