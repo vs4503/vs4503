@@ -5,6 +5,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 <br>
+<br>
 
 [![github](https://github.com/vs4503/vs4503/assets/89811601/09299100-2353-4abe-b069-374fbe364207)][1]
 
