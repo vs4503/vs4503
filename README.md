@@ -6,7 +6,7 @@
 </a> 
 <br>
 
-[![github](https://github.com/vs4503/vs4503/assets/89811601/09299100-2353-4abe-b069-374fbe364207)](https://linkedin.com/in/vaibhav-santurkar)
+[![github]()](https://linkedin.com/in/vaibhav-santurkar)
 
 ### Welcome to my Github Profile!  
 I am an enthusiastic and inquisitive programmer aiming to utilize my expertise in Data Analytics, Web Development, and Quantum Computing to obtain a full-time position as a Software Developer!  
