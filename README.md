@@ -3,8 +3,7 @@
 
 <a href="https://linkedin.com/in/vaibhav-santurkar" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
-<br>
+</a> &nbsp
 
 [![github](https://github.com/vs4503/vs4503/blob/main/Gmail_icon_(2020)-VerySmall.png)](mailto:vs4503@g.rit.edu)
 
