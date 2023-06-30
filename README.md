@@ -1,6 +1,7 @@
 ## Hi! 👋 I'm Vaibhav Santurkar!  
 
 [![github](https://github.com/vs4503/vs4503/blob/main/Gmail_icon_(2020)-VerySmall.png)](mailto:vs4503@g.rit.edu) 
+
 [![linkedin](https://github.com/vs4503/vs4503/blob/main/linkedinicon-VerySmall.png)](https://www.linkedin.com/in/vaibhav-santurkar/) 
 
 
