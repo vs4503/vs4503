@@ -17,13 +17,13 @@ I am an enthusiastic and inquisitive programmer aiming to utilize my expertise i
 
 
 ## Rapidfire  
-- 🌱 I’m currently learning about Angular and Quantum Machine Learning  
+- 🌱 I’m currently learning about Django, React and ELK 
   
 
 - ❓ Ask me about anything related to Quantum Visualization, Python Web Development, and trains (😉)!  
   
 
-- ⚡ Fun fact: My favorite color to code in is yellow.  
+- ⚡ Fun fact: My favorite web development language is Flask.  
   
 
 <br/>  
