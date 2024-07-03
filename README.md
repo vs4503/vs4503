@@ -10,7 +10,7 @@
 
 
 ### Welcome to my Github Profile!  
-I am an enthusiastic and inquisitive programmer aiming to utilize my expertise in Data Analytics, Web Development, and Quantum Computing to obtain a full-time position as a Software Developer!  
+I am an enthusiastic and inquisitive programmer aiming to utilize my expertise in Big Data Analytics, React Front-End Development, and Java Back-End Development to obtain a full-time position as a Software Developer!  
   
 
 <br/>  
