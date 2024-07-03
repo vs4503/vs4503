@@ -17,10 +17,10 @@ I am an enthusiastic and inquisitive programmer aiming to utilize my expertise i
 
 
 ## Rapidfire  
-- 🌱 I’m currently learning about Django, React and ELK 
+- 🌱 I’m currently learning about Django, React and SpringBoot 
   
 
-- ❓ Ask me about anything related to Quantum Visualization, Python Web Development, and trains (😉)!  
+- ❓ Ask me about anything related to Quantum Visualization, Java/Python Web Development, and trains (😉)!  
   
 
 - ⚡ Fun fact: My favorite web development language is Flask.  
